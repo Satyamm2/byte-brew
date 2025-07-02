@@ -5,7 +5,7 @@ export default function Home() {
     id: i + 1,
     name: `Product ${i + 1}`,
     description: `This is a short description for product ${i + 1}.`,
-    image: `https://placehold.co/400`,
+    image: `https://i.pcmag.com/imagery/reviews/01FwfDqRbPiFGSomkeANtlh-1.fit_lim.size_320x180.v1712008572.jpg`,
   }));
 
   return (
